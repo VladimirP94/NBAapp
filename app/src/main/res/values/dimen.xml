@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginbutton">8dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="team">14sp</dimen>
+    <dimen name="score"> 56sp</dimen>
+    <dimen name="spacetop">16dp</dimen>
+    <dimen name="left">24dp</dimen>
+    <dimen name="between">8dp</dimen>
+    <dimen name="botom">32dp</dimen>
+    <dimen name="pictureSize">100dp</dimen>
+    <dimen name="play_pause">48dp</dimen>
+    <dimen name="play_pause_padding">8dp</dimen>
+    <dimen name="paddingleft">10dp</dimen>
+</resources>
